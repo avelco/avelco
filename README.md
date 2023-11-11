@@ -42,9 +42,6 @@ Let's connect and explore the endless possibilities of technology and programmin
       </ul>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <!-- Languages and Tools -->
     <td valign="top" width="50%">
