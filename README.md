@@ -37,7 +37,7 @@ Let's connect and explore the endless possibilities of technology and programmin
         <li>Surfing Bird</li>
         <ul>
           <li>Aequilbrium</li>
-          <li>Conyco</li>
+          <li><a href="https://conyko.com" target="_new">CONYKO</a></li>
         </ul>
       </ul>
     </td>
