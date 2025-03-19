@@ -34,11 +34,8 @@ Let's connect and explore the endless possibilities of technology and programmin
       <ul>
         <li>Co-founder at <a href="https://emision.co" target="_new">Nodexum / e-Misión</a></li>
         <li>Ex-COO at <a href="https://emision.co" target="_new">Nodexum / e-Misión</a></li>
-        <li>Surfing Bird</li>
-        <ul>
-          <li><a href="https://conyko.com" target="_new">CONYKO</a></li>
-	  <li><a href="https://cobranti.com" target="_new">Cobranti</a></li>
-        </ul>
+        <li>Co-founder at<a href="https://conyko.com" target="_new">CONYKO</a></li>
+	<li>Co-founder at<a href="https://cobranti.com" target="_new">Cobranti</a></li>
       </ul>
     </td>
   </tr>
