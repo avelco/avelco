@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there! I'm Alejandro Velasco 👋 </h1>
-<h3 align="center">🚀 Backend Developer | Open Source Lover | Entrepreneurship | Devops 🚀</h3>
+<h3 align="center">🚀 Fullstack Developer | Open Source Lover | Entrepreneurship | Devops 🚀</h3>
 <div>
 <p>
 👋 I'm a coder with a passion for classical music, rock, and electronic tunes. Driven by my love for programming and entrepreneurship, I aspire to blend technology with creativity in building innovative things. Fascinated by the world of trucks and business.
